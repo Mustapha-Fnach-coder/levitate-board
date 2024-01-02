@@ -1,0 +1,33 @@
+.card{
+    width: 600px;
+    margin: auto;
+}
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+  }
+  
+  .care {
+    background-color: #080808;
+    border:solid 1px white;
+    margin: 2px;
+    width: 16px;
+    height: 16px;
+    transition: 2s ease;
+  }
+  
+  .care:hover {
+    transition-duration: 0s;
+  }
+  img{
+    width: 350px;
+    height: auto;
+  }
+.container-fluid{
+  display: flex;
+}
+
+
+  
